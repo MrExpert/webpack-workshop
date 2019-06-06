@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-Also make sure to install `webpack` and `webpack-cli` globally.
+Make sure to install `webpack` and `webpack-cli` globally.
 
 ```sh
 npm install -g webpack webpack-cli
